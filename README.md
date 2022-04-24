@@ -1,5 +1,10 @@
 # Data Science Portfolio
 
+## Deep Learning
+* [Rice Image Classification](https://github.com/ToobaJamal/datascience-portfolio/blob/main/riceimage.ipynb) - Using Convolutional Neural Network for the classification of rice images into five categories with 98% accuracy on test dataset.
+\
+*Skills demonstrated: Python, Tensorflow, Jupyter Notebook, Data Visualization, Deep Learning*
+
 ## Traditional Machine Learning 
 * [Driver Alertness Detection](https://github.com/ToobaJamal/datascience-portfolio/blob/main/DriverAlertness.ipynb) - Using multiple classification algorithms to identify the best one and predict driver alertness using the best model. Random Forest Classifier yields the best accuracy of 99% on validation data.
 \
