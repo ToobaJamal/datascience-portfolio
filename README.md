@@ -4,8 +4,8 @@
 * [Rice Image Classification](https://github.com/ToobaJamal/datascience-portfolio/blob/main/riceimage.ipynb) - Using Convolutional Neural Network for the classification of rice images into five categories with 98% accuracy on test dataset.
 \
 *Skills demonstrated: Python, Tensorflow, Jupyter Notebook, Data Visualization, Deep Learning*
-\
-* [House Price Prediction using Deep Neural Network](https://github.com/ToobaJamal/datascience-portfolio/blob/main/houseprice.ipynb) - Using Deep Neural Network for the prediction of house prices with predicted values that a client can rely on. 
+
+* [House Price Prediction using Deep Neural Network](https://github.com/ToobaJamal/datascience-portfolio/blob/main/houseprice.ipynb) - Using Deep Neural Network for the prediction of house prices. The predicted values are so close to the actual values that a client can totally rely on them.
 \
 *Skills demonstrated: Python, Tensorflow, Keras, Deep Neural Networks, Jupyter Notebook, Data Visualization*
 
