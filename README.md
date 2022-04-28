@@ -1,6 +1,10 @@
 # Data Science Portfolio
 
 ## Deep Learning
+* [Pepper Disease Classification](https://github.com/ToobaJamal/datascience-portfolio/blob/main/pepperdisease.ipynb) - Using Convolutional Neural Networks for the bacterial disease classification in bell pepper images with 100% accuracy on test dataset.
+\
+*Skills demonstrated: Python, Tensorflow, Jupyter Notebook, CNN, Deep Learning*
+
 * [Rice Image Classification](https://github.com/ToobaJamal/datascience-portfolio/blob/main/riceimage.ipynb) - Using Convolutional Neural Network for the classification of rice images into five categories with 98% accuracy on test dataset.
 \
 *Skills demonstrated: Python, Tensorflow, Jupyter Notebook, Data Visualization, Deep Learning*
