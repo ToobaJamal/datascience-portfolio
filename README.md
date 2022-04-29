@@ -13,6 +13,10 @@
 \
 *Skills demonstrated: Python, Tensorflow, Keras, Deep Neural Networks, Jupyter Notebook, Data Visualization*
 
+* [Missing Values Imputation using Deep Neural Network](https://github.com/ToobaJamal/datascience-portfolio/blob/main/missingvaluesimputation.ipynb) - Using Deep Neural Network for the prediction of missing values in dataset provided by Jeff Heation (Instructor of Applications of Deep Neural Networks at Washington University). 
+\
+*Skills demonstrated: Python, Data Preprocessing, Tensorflow, Keras, Deep Neural Networks, Jupyter Notebook*
+
 ## Traditional Machine Learning 
 * [Driver Alertness Detection](https://github.com/ToobaJamal/datascience-portfolio/blob/main/DriverAlertness.ipynb) - Using multiple classification algorithms to identify the best one and predict driver alertness using the best model. Random Forest Classifier yields the best accuracy of 99% on validation data.
 \
