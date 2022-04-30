@@ -13,7 +13,7 @@
 \
 *Skills demonstrated: Python, Tensorflow, Keras, Deep Neural Networks, Jupyter Notebook, Data Visualization*
 
-* [Missing Values Imputation using Deep Neural Network](https://github.com/ToobaJamal/datascience-portfolio/blob/main/missingvaluesimputation.ipynb) - Using Deep Neural Network for the prediction of missing values in dataset provided by Jeff Heation (Instructor of Applications of Deep Neural Networks at Washington University). 
+* [Missing Values Imputation using Deep Neural Network](https://github.com/ToobaJamal/datascience-portfolio/blob/main/missingvaluesimputation.ipynb) - Using Deep Neural Network for the prediction of missing values in dataset provided by Jeff Heaton (Instructor of Applications of Deep Neural Networks at Washington University). 
 \
 *Skills demonstrated: Python, Data Preprocessing, Tensorflow, Keras, Deep Neural Networks, Jupyter Notebook*
 
